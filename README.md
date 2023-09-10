@@ -48,5 +48,38 @@ Para afrontar estos desafíos, hemos aplicado una combinación de metodologías,
 
 ## Desarrollo ágil: Historias de usuario y criterios de aceptación
 
+![Historias de Usuarios](img/HistoriasDeUsuario.png)
 
+## Casos de Uso:
+
+![Casos de Uso](img/CasoDeUso.png)
+
+## Descripcion - Casos de Uso:
+
+![Descripcion Casos de Uso](img/Descripcion%20-%20CasoDeUso.png)
+
+## Diagrama de Clases:
+
+![Diagrama de Clases](img/DiagramaDeClases.png)
+
+## Diagrama de Estado:
+
+![Diagrama de Estado](img/DigramaDeEstado.png)
+
+
+## Sistema Integral de Stock
+
+![Sistema Integral de Stock](img/SistemaIntegralDeStock_1.jpg)
+![Sistema Integral de Stock](img/SistemaIntegralDeStock_2.jpg)
+![Sistema Integral de Stock](img/SistemaIntegralDeStock_3.jpg)
+
+## EmpCheck
+
+![Sistema Integral de Stock](img/EmpCheck_1.jpg)
+![Sistema Integral de Stock](img/EmpCheck_2.jpg)
+![Sistema Integral de Stock](img/EmpCheck_3.jpg)
+
+## Enmaquetado: 
+
+https://www.figma.com/file/uuMdkgkNxbNnGVA4oEecc9/Untitled?node-id=0%3A1
 
