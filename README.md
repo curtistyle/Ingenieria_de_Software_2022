@@ -1,5 +1,5 @@
 # Ingenieria_de_Software_2022
-Trabajo Grupal, donde desarrollamos las etapas del ciclo de vida para el desarrollo de **Sistema Integral de Sock** y **Emp Check** *(employee checkup)* de una Empresa (ficticia) Fenix Tech.
+Trabajo Grupal, conformado por *Sebastian Maldonado, Gabriel Kazanski, Critian Avalos*, donde desarrollamos las etapas del ciclo de vida para el desarrollo de **Sistema Integral de Sock** y **Emp Check** *(employee checkup)* de una Empresa (ficticia) Fenix Tech.
 
 ## **Presentación.**
 
@@ -83,3 +83,4 @@ Para afrontar estos desafíos, hemos aplicado una combinación de metodologías,
 
 https://www.figma.com/file/uuMdkgkNxbNnGVA4oEecc9/Untitled?node-id=0%3A1
 
+![Mas informacion del trabajo](https://drive.google.com/drive/folders/1lM8a2XUqhq0GyplT5LdA_3wTjWkhXklU?usp=drive_link)
